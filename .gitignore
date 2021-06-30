@@ -16,6 +16,7 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 .idea/
+*.iml
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
@@ -133,3 +134,4 @@ pyvenv.cfg
 pip-selfcheck.json
 
 # End of https://www.toptal.com/developers/gitignore/api/jetbrains,virtualenv,database
+/.idea/
